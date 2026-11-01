@@ -1,0 +1,9 @@
+{
+  "client_id": "https://pedrooferraz.github.io/clareza-oauth/client-metadata.json",
+  "client_name": "Clareza - Controle Financeiro Local",
+  "redirect_uris": ["http://127.0.0.1:43828/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "application_type": "native"
+}
